@@ -1,0 +1,27 @@
+a:hover {
+color: gray;
+}
+h5:hover {
+color: blue !important;
+}
+.para:hover{
+    color: blue;  
+}
+.carousel .carousel-item {
+width:500px !important;}
+.modal{
+    width: 800px !important;
+    margin-top: 60px !important;
+}
+.icons{padding: 15px !important;}
+.divider{width: 100% !important;}
+#book{
+    width: 420px !important;
+    height: 600px !important;
+}
+form{
+    padding: 20px;
+}
+#bod{
+    margin-top: 30px;
+}
