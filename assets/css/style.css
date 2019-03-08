@@ -1,3 +1,7 @@
+*{
+    font-family: Ubuntu;
+}
+
 a:hover {
 color: gray;
 }
@@ -14,7 +18,7 @@ width:500px !important;}
     margin-top: 60px !important;
 }
 .icons{padding: 15px !important;}
-.divider{width: 100% !important;}
+
 #book{
     width: 420px !important;
     height: 600px !important;
@@ -22,6 +26,18 @@ width:500px !important;}
 form{
     padding: 20px;
 }
+hr{
+    width: 100% !important;
+}
 #bod{
     margin-top: 30px;
+}
+ul.indicators{
+    display: none !important;
+}
+.move{
+    background-color:  transparent !important;
+}
+footer{
+    height: 300px !important;
 }
